@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@ps0.dev
+Expires: 2023-01-01T00:00:00.000Z
+Encryption: https://www.ps0.dev/security.asc
+Acknowledgments: https://www.ps0.dev/security#acknowledgments
+Preferred-Languages: en
+Canonical: https://www.ps0.dev/.well-known/security.txt
+Policy: https://www.ps0.dev/security#policy
+Hiring: https://www.ps0.dev/security#hiring
+-----BEGIN PGP SIGNATURE-----
+
+iQJFBAEBCgAvFiEETWY7AOianOe8m8WZdNAUOy/LpdYFAmHPmYIRHHNlY3VyaXR5
+QHBzMC5kZXYACgkQdNAUOy/LpdZkwxAAgQRw9yEz9lQdtSPDVLjqmELiX1I71Q0I
+Aw8VE6xOHACmVNMU/00gndiuw2rmUqA5ZbIaePtp9bda2AI3muvSFV/BvKsitBMB
+VZ3D2+OuGtgwiK4GHDMXmEYEHenUDmT/cW///tvyHrMB9k14uoPauucbyxKiqxtf
+jHB+R2f6vwpBE1xzYhGlvV5To++96Vzd6H5FiYX517vIrEcXjk3bDkb4nI2KkI0/
+22kKqPaAJYzUneMnPtxNxCID59HPrAgXfKxCVdndCKfTxbDu5BuaCrM4p967pKRR
+fvw9Tpu98fRgsK0cljcZdB33ha/LkZuiiXww/y1bE2+/3gTvhi9JvrIE5W1T3yh9
+d1SckTmfexBEuLbSTykR2YuKFg5bxCgXlY/BCjaqMfbIEqE1aFVn5q6Tqtme/TyR
+gGfIj+r7Pz55/UH95sEFqF6OwJsba8BehdjTw0TtMSSDSB72iS1dmOXMx702vKWt
+nn7S91cJco9pCphq7nLmH+ot1Q+ENp/UaMW/+FS4v+3wMRcCuEuQ0+fL9p8GDTJQ
+vZgQB8YJEviZG37s8Ph39qb1FfD70+bWeOc8LU5Cbf75Cwxwo68weij1icW0+1rT
+5FLIAFgY56B//h6xfncRnWhn0PYL33KTh2/RWDvfyEiqRK8oVL3N60wJkYEH9S8C
++lzaZG4Dtds=
+=Wp8J
+-----END PGP SIGNATURE-----
