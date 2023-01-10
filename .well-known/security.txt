@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Contact: mailto:security@ps0.dev
-Expires: 2023-01-01T00:00:00.000Z
+Expires: 2024-01-01T00:00:00.000Z
 Encryption: https://www.ps0.dev/security.asc
 Acknowledgments: https://www.ps0.dev/security#acknowledgments
 Preferred-Languages: en
@@ -11,18 +11,18 @@ Policy: https://www.ps0.dev/security#policy
 Hiring: https://www.ps0.dev/security#hiring
 -----BEGIN PGP SIGNATURE-----
 
-iQJFBAEBCgAvFiEETWY7AOianOe8m8WZdNAUOy/LpdYFAmHPmYIRHHNlY3VyaXR5
-QHBzMC5kZXYACgkQdNAUOy/LpdZkwxAAgQRw9yEz9lQdtSPDVLjqmELiX1I71Q0I
-Aw8VE6xOHACmVNMU/00gndiuw2rmUqA5ZbIaePtp9bda2AI3muvSFV/BvKsitBMB
-VZ3D2+OuGtgwiK4GHDMXmEYEHenUDmT/cW///tvyHrMB9k14uoPauucbyxKiqxtf
-jHB+R2f6vwpBE1xzYhGlvV5To++96Vzd6H5FiYX517vIrEcXjk3bDkb4nI2KkI0/
-22kKqPaAJYzUneMnPtxNxCID59HPrAgXfKxCVdndCKfTxbDu5BuaCrM4p967pKRR
-fvw9Tpu98fRgsK0cljcZdB33ha/LkZuiiXww/y1bE2+/3gTvhi9JvrIE5W1T3yh9
-d1SckTmfexBEuLbSTykR2YuKFg5bxCgXlY/BCjaqMfbIEqE1aFVn5q6Tqtme/TyR
-gGfIj+r7Pz55/UH95sEFqF6OwJsba8BehdjTw0TtMSSDSB72iS1dmOXMx702vKWt
-nn7S91cJco9pCphq7nLmH+ot1Q+ENp/UaMW/+FS4v+3wMRcCuEuQ0+fL9p8GDTJQ
-vZgQB8YJEviZG37s8Ph39qb1FfD70+bWeOc8LU5Cbf75Cwxwo68weij1icW0+1rT
-5FLIAFgY56B//h6xfncRnWhn0PYL33KTh2/RWDvfyEiqRK8oVL3N60wJkYEH9S8C
-+lzaZG4Dtds=
-=Wp8J
+iQJFBAEBCgAvFiEEGAbt1rqZ935gv7SNAg8n34o5mJ0FAmO9yegRHHNlY3VyaXR5
+QHBzMC5kZXYACgkQAg8n34o5mJ3PEA/9EiCGReqne2+0TnelF7hLBV7mUW42TGrW
+5RujmMy+98Mr68VA2DROun8IVonVIGWtNLh9oKrcAK1O3g1VM77O3f2u2nmX1Azv
+K/glad37DP/hn+gNEYEUtfmN0lTyzPM3ggbLUpmZmh6ud7KBU8t/L7NdWDHYMnDi
+6mtEy3y4ls9851tVTZbdMTD+diKn+OfsjUfnyg9RfgDffEylnXCISHvInpYW6TQ2
+a8KoP/Qgda03YGD/6GTXPKJXxPUNIDHbm65M4PDAnzy9rls1MlGhb6flu66VdXfb
+kTSJyAHnK2d631uz/Z3tLecttBoE6b7o4mcYP6Z1xwjKiyUfePi1I/gKpqJ7nydI
+/g8HFuVtovFhYUjE6W9qtf+ZEBfXeb8aPMNXj49n/s31o/v7ujnY+dWoSvLDwX7U
+FSrY29otkGgXGT078ZaUxFDYp291zF0DK1sLgeRsnTrrtu6mATN7O2dE2sRfLRZR
+KTXLFe8vyab7NUwrvQBhOUE4R1WofGY0BL9Co26k0+j0PV+C6A7pO57ezdkqYFk0
+JE3ku8tUBYDWIvGXoxWZkuATXsfN+qD27bI3NmxpjWcvQI9hypPt2dqJgIxR+uHS
+GZXWP3a5vLsWATgyQUqSlRg0xXn/g3bcIcIqNGI5tTWv29d0ee5/T4fiF3hp1uPk
+Cg+WNQluMjA=
+=Ai9S
 -----END PGP SIGNATURE-----
